@@ -1,5 +1,6 @@
 https://www.kiwismedia.com/byte/complete-mern-stack-developer-roadmap-2021
 
+<div ="container">
 <div class="row mb-4 insta-posts">
 <div class="col-xl-4 col-md-4 col-sm-6 mb-4">
 <div class="byte-card ">
@@ -44,6 +45,7 @@ https://www.kiwismedia.com/byte/complete-mern-stack-developer-roadmap-2021
 <div class="col-xl-4 col-md-4 col-sm-6 mb-4">
 <div class="byte-card ">
 <img class="lazy img-responsive" src="https://www.kiwismedia.com/storage/byte-contents/May2021/a8nATkArkL9bgTz85xyZ.jpg" style="max-width:100%">
+</div>
 </div>
 </div>
 </div>
