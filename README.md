@@ -20,16 +20,27 @@ A record of my journey to becoming a MERN Stack Developer
 # Website:
 https://www.kiwismedia.com/byte/complete-mern-stack-developer-roadmap-2021
 
+## Resources
+- HTML & CSS: https://youtu.be/G3e-cpL7ofc?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6
+- JavaScript: https://youtu.be/DqaTKBU9TZk
+- Node JS:
+- MongoDB:
+- Express JS:
+- Setting up a domain name: https://youtu.be/p1QU3kLFPdg
+- Git & GitHub:
+ 1. https://youtu.be/hrTQipWp6co
+ 2. 
+
 # 1st 
 - HTML
-# 2nd
 - CSS
-- Bootsrap
-- Tailwind CSS
-# 3rd 
+# 2nd
 - JavaScript
-- TypeScript
-# 4th 
+# 3rd 
 - Node JS
 - Mongo DB
 - Express JS
+# 4th [ADD-ONS]
+- TypeScript
+- Bootsrap
+- Tailwind CSS
