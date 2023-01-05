@@ -20,17 +20,8 @@ A record of my journey to becoming a MERN Stack Developer
 # Website:
 <a href="https://www.kiwismedia.com/byte/complete-mern-stack-developer-roadmap-2021" target="_blank"> MERN Stack Developer Roadmap </a>
 
-## Resources
-- HTML & CSS: <a href="https://youtu.be/G3e-cpL7ofc?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6" target="_blank"> SuperSimpleDev </a>
-- JavaScript: <a href="https://youtu.be/DqaTKBU9TZk" target="_blank"> SuperSimpleDev </a>
-- Node JS:
-- MongoDB:
-- Express JS:
-- Setting up a domain name: <a href="https://youtu.be/p1QU3kLFPdg" target="_blank"> SuperSimpleDev </a>
-- Git & GitHub:
-   1. <a href="https://youtu.be/hrTQipWp6co" target="_blank"> Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) </a>
-   2. <a href="https://youtu.be/1ibmWyt8hfw?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6" target="_blank"> Git and GitHub - 0 Experience to Professional in 1 hour                 Tutorial(Part2) </a>       
-   3. <a href="https://youtu.be/Q1kHG842HoI?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6" target="_blank"> Git Branching and Merging - Detailed Tutorial </a>
+![MERN](https://user-images.githubusercontent.com/85706777/210788583-f632cfdf-5c83-4fc4-9bd4-b5cdbe4035c1.jpg)
+
 
 # 1st 
 - HTML
@@ -45,3 +36,16 @@ A record of my journey to becoming a MERN Stack Developer
 - TypeScript
 - Bootsrap
 - Tailwind CSS
+
+
+## Resources
+- HTML & CSS: <a href="https://youtu.be/G3e-cpL7ofc?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6" target="_blank"> SuperSimpleDev </a>
+- JavaScript: <a href="https://youtu.be/DqaTKBU9TZk" target="_blank"> SuperSimpleDev </a>
+- Node JS:
+- MongoDB:
+- Express JS:
+- Setting up a domain name: <a href="https://youtu.be/p1QU3kLFPdg" target="_blank"> SuperSimpleDev </a>
+- Git & GitHub:
+   1. <a href="https://youtu.be/hrTQipWp6co" target="_blank"> Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) </a>
+   2. <a href="https://youtu.be/1ibmWyt8hfw?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6" target="_blank"> Git and GitHub - 0 Experience to Professional in 1 hour                 Tutorial (Part2) </a>       
+   3. <a href="https://youtu.be/Q1kHG842HoI?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6" target="_blank"> Git Branching and Merging - Detailed Tutorial </a>
