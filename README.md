@@ -28,10 +28,9 @@ A record of my journey to becoming a MERN Stack Developer
 - Express JS:
 - Setting up a domain name: <a href="https://youtu.be/p1QU3kLFPdg" target="_blank"> SuperSimpleDev </a>
 - Git & GitHub:
- 1. <a href="https://youtu.be/hrTQipWp6co" target="_blank"> 
-Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) </a>
- 2. <a href="https://youtu.be/1ibmWyt8hfw?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6" target="_blank"> Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2) </a>
- 3. <a href="https://youtu.be/Q1kHG842HoI?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6" target="_blank"> Git Branching and Merging - Detailed Tutorial </a>
+   1. <a href="https://youtu.be/hrTQipWp6co" target="_blank"> Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1) </a>
+   2. <a href="https://youtu.be/1ibmWyt8hfw?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6" target="_blank"> Git and GitHub - 0 Experience to Professional in 1 hour                 Tutorial(Part2) </a>       
+   3. <a href="https://youtu.be/Q1kHG842HoI?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6" target="_blank"> Git Branching and Merging - Detailed Tutorial </a>
 
 # 1st 
 - HTML
