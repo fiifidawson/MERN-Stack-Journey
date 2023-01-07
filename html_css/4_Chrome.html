@@ -1,86 +1,28 @@
-<! Chrome DevTools and CSS Box Model>
+<!-- <! Chrome DevTools and CSS Box Model>
 <!First create the element with html>
 <!Second style with CSS>
-<!Padding text in a button, Using inspect in Chrome, Button Alignment>
+<!Padding text in a button, Using inspect in Chrome, Button Alignment> -->
 
-<style>
-    .subscribe-button {
-        background-color: rgb(200, 0, 0);
-        color: white;
-        border: none;
-        border-radius: 2px;
-        margin-right: 8px;
-        margin-left: 8px;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        padding-left: 16px;
-        padding-right: 16px;
-        cursor: pointer;
-        transition: opacity 0.15s;
-        vertical-align: top;
-    }
-    .subscribe-button:hover{
-        opacity: 0.8;
-    }
-    .subscribe-button:active{/*When clicked*/
-        opacity: 0.5;
-    }
-
-
-    .join-button {
-        background-color: white;
-        border-color: rgb(41, 118, 211);
-        border-style: solid; /*Used to even out the colors on each side*/
-        border-width: 1px;
-        color: rgb(41, 118, 211);
-        border-radius: 2px;
-        padding-top: 9px;
-        padding-bottom: 9px;
-        padding-left: 16px;
-        padding-right: 16px;
-        cursor: pointer;
-        transition: background-color 0.15s, 
-        color 0.15s;
-    }
-    .join-button:hover{
-        background-color: rgb(41, 118, 211);
-        color: white;
-    }
-    .join-button:active{
-        opacity: 0.7;
-    }
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chrome Tools</title>
+        <link rel="stylesheet" href="styles/4_Chrome.css">
+    </head>
+    <body>
+        <button class="subscribe-button">
+            SUBSCRIBE
+        </button>
+        
+        <button class="join-button">
+            JOIN
+        </button>
+        
+        <button class="tweet-button">
+            Tweet
+        </button>
+        
+    </body>
+</html>
 
 
-    .tweet-button {
-        background-color: rgb(0, 172, 238);
-        color: white;
-        border: none;
-        border-radius: 18px;
-        font-weight: bold;
-        font-size: 15px;
-        cursor: pointer;
-        margin-left: 8px;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        padding-left: 16px;
-        padding-right: 16px;
-        transition: box-shadow 0.15s; 
-        vertical-align: top;       
-    }
-    .tweet-button:hover{
-         /*horizontal-postion vertical-position blur  rgba(r,g,b, opacity)*/ 
-         box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
-    }
-</style>
-
-<button class="subscribe-button">
-    SUBSCRIBE
-</button>
-
-<button class="join-button">
-    JOIN
-</button>
-
-<button class="tweet-button">
-    Tweet
-</button>
