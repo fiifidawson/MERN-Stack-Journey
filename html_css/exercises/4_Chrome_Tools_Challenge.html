@@ -1,140 +1,48 @@
-<style>
-    .pagination-back-button{
-        border-width: 1px;
-        border-radius: 3px;
-        padding-left: 10px;
-        padding-right: 10px;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        font-size: 16px;
-        margin-right: 8px;
-        margin-bottom: 20px;
-    }
-    .pagination-next-button{
-        border-width: 1px;
-        border-radius: 3px;
-        padding-left: 10px;
-        padding-right: 10px;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        font-size: 16px;
-        margin-left: 8px;
-        margin-bottom: 20px;
-    }
-    .previous-result{
-        margin-left: 4px;
-        margin-right: 4px;
-        font-size: 18px;
-        margin-bottom: 20px;
-    }
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Chrome Tools Challenge</title>
+        <link rel="stylesheet" href="styles/4_Chrome_Tools_Challenge.css">
+    </head>
+    <body>        
+        <button class="pagination-back-button">
+            Back
+        </button>
+            <a class="previous-result" href="https://google.com">1</a>
+            <a class="previous-result" href="https://google.com">2</a>
+            <a class="previous-result" href="https://google.com">3</a>
+            <a class="previous-result" href="https://google.com">4</a>
+            <a class="previous-result" href="https://google.com">5</a>
 
+            <button class="pagination-next-button">
+                Next
+            </button>
 
-    .stretch-button{
-        color: white;
-        border: none;
-        background-color: rgb(21, 167, 21);
-        padding-left: 15px;
-        padding-right: 15px;
-        padding-top: 8px;
-        padding-bottom: 8px;
-        font-size: 18px;
-        cursor: pointer;
-        margin-right: 20px;
-        margin-bottom: 20px;
-        transition:padding-left 1s,
-            padding-right 1s,
-            padding-top 1s,
-            padding-bottom 1s;
-    }
-    .stretch-button:hover{
-        padding-left: 36px;
-        padding-right: 36px;
-        padding-top: 18px;
-        padding-bottom: 18px;
-    }
-    .shadow-button{
-        color: white;
-        border: none;
-        background-color: rgb(21, 167, 21);
-        padding-left: 15px;
-        padding-right: 15px;
-        padding-top: 8px;
-        padding-bottom: 8px;
-        font-size: 18px;
-        cursor: pointer;
-        margin-right: 20px;
-        margin-bottom: 20px;
-        box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+            <br>
 
-    }
-    .shadow-button:active{
-        box-shadow: none;
-        margin-top: 3px;
-        margin-left: 3px;
-    }
+            <button class="stretch-button">
+                Stretch
+            </button>
 
-    .number-button{
-        background-color: green;
-        color: white;
-        border: none;
-        font-size: 18px;
-        padding-top: 8px;
-        padding-bottom: 8px;
-        cursor: pointer;
+            <br>
 
-        padding-left: 15px;
-        padding-right: 15px;
-        margin-left: 10px;
-        margin-right: 10px;
+            <button class="shadow-button">
+                Shadow
+            </button>
 
-        transition: padding 0.15s,
-        margin 0.15s;
-    }
-    .number-button:hover{
-        padding-left: 20px;
-        padding-right: 20px;
-        margin-left: 0px;
-        margin-right: 0px;
-    }
-</style>
+            <br>
 
+            <button class="number-button">
+                One
+            </button>
 
-<button class="pagination-back-button">
-    Back
-</button>
+            <button class="number-button">
+                Two
+            </button>
 
-<a class="previous-result" href="https://google.com">1</a>
-<a class="previous-result" href="https://google.com">2</a>
-<a class="previous-result" href="https://google.com">3</a>
-<a class="previous-result" href="https://google.com">4</a>
-<a class="previous-result" href="https://google.com">5</a>
+            <button class="number-button">
+                Three
+            </button>
+    </body>
+</html>
 
-<button class="pagination-next-button">
-    Next
-</button>
-
-<br>
-
-<button class="stretch-button">
-    Stretch
-</button>
-
-<br>
-
-<button class="shadow-button">
-    Shadow
-</button>
-
-<br>
-
-<button class="number-button">
-    One
-</button>
-
-<button class="number-button">
-    Two
-</button>
-
-<button class="number-button">
-    Three
-</button>

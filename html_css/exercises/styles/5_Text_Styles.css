@@ -1,0 +1,64 @@
+p{
+    font-family: Arial;
+}
+.tahoma-text{
+    font-family: Tahoma;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.deals-text{
+    font-size: 29px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+.sales-text{
+    font-size: 20px;
+    font-style: italic;
+    color: red;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.html-text{
+    font-family: Verdana;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+.beginner-text{
+    font-family: Verdana;
+    color: gray;
+    margin-top: 0;
+}
+.developer-text{
+    font-family: Verdana;
+    width: 280px;
+    margin-top: 0;
+}
+.button{
+    background-color: green;
+    border: none;
+    border-radius: 4px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.business-text{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.apple-text{
+    text-align: center;
+}
+.learn-text{
+    text-align: center;
+    color: blue;
+}

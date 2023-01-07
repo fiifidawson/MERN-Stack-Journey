@@ -1,0 +1,83 @@
+p {
+    font-family: Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.new-text{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+.macbook-text{
+    font-size: 22px;
+    text-align: center;
+    font-weight: bold;      
+}
+.supercharged-text{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.price-text{
+    text-align: center;
+    margin-bottom: 5px;
+}
+.buy-button {
+background-color: rgb(0, 113, 227);
+color: white;
+padding-top: 7px;
+padding-bottom: 7px;
+padding-left: 15px;
+padding-right: 15px;
+border-radius: 30px;
+margin-left: 300px;
+margin-right: 300;
+font-weight: bold;
+cursor: pointer;
+text-align: center;
+margin-bottom: 60px;
+}
+.amount-text{
+font-size: 30px;
+}
+.usd-text{
+margin-left: 3px;
+color: gray;
+font-size: 15px;
+margin-bottom: 2px;
+}
+.plus-text{
+color: green;
+margin-bottom: 2px;
+}
+.hours-text{
+color: gray;
+margin-bottom: 60px;
+}
+.minus-text{
+color: red;
+margin-bottom: 60px;
+}
+
+.freecodecamp-text{
+font-weight: bold;
+}
+.at{
+color: gray;
+}
+.sentence-1{
+width: 500px;
+margin-bottom: 20px;
+}
+.sentence-2{
+margin-bottom: 60px;
+}
+.link{
+color: rgb(104, 104, 255);
+cursor: pointer;
+margin-bottom: 60px;
+}
+.link:hover{
+text-decoration: underline;
+}

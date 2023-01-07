@@ -1,0 +1,55 @@
+.link{
+    color: rgb(0, 113, 133);
+    cursor: pointer;
+}
+.link:hover{
+    color: rgb(165, 109, 5);
+}
+
+.nike-p{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.price-p{
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+
+
+.cart-button{
+    background-color: rgb(255, 216, 20);
+    border: none;
+    height: 26px;
+    width: 110px;
+    border-radius: 15px;
+    font-weight: bold;
+    margin-right: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.cart-button:hover {
+    background-color: rgb(201, 169, 9);
+}
+.cart-button:active{
+    opacity: 0.5;
+}
+
+
+.buy-button{
+    background-color: rgb(255, 164, 28);
+    border: none;
+    height: 26px;
+    width: 110px;
+    border-radius: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.buy-button:hover{
+    background-color: rgb(223, 134, 0);
+}
+.buy-button:active{
+    opacity: 0.5;
+}
