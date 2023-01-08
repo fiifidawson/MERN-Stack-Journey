@@ -2,6 +2,7 @@
     width: 200px;
     border-radius: 10px;
     margin-right: 20px;
+    margin-bottom: 60px;
 }
 .john-wick-1{
     width: 150px;
@@ -9,6 +10,7 @@
     object-fit: cover;
     object-position: center;
     margin-right: 20px;
+    margin-bottom: 60px;
 }
 .john-wick-2{
     width: 150px;
@@ -17,4 +19,31 @@
     object-fit: cover;
     object-position: center;
     margin-right: 20px;
+    margin-bottom: 60px;
+}
+.search-bar{
+    font-size: 16px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    border-width: 1px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 60px;
+    padding-right: 30px;
+}
+.search-google{
+    font-size: 16px;
+    width: 500px;
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 30px;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    margin-top: 20px;
+    margin-left: 20px;
 }
