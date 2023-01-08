@@ -1,0 +1,20 @@
+.john-wick{
+    width: 200px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.john-wick-1{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+    margin-right: 20px;
+}
+.john-wick-2{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    object-fit: cover;
+    object-position: center;
+    margin-right: 20px;
+}
