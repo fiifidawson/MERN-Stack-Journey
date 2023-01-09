@@ -25,3 +25,72 @@
     padding-bottom: 15px;
     margin-bottom: 20px;
 }
+.button{
+    cursor: pointer;
+}
+.youtube-div{
+    background-color: rgb(31, 27, 27);              border-width: 1px;
+    width: 350px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.install{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.add{
+    font-family: Arial;
+    margin-bottom: 0;
+    color: rgb(203, 203, 203);
+}
+
+
+.twitter {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    width: 450px;
+    border-radius: 6px;
+}
+.john{
+    margin-top: 10px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+.quote{
+    font-size: 18px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+}
+.tweet{
+    background-color: rgb(29, 155, 240);
+    border-radius: 15px;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 30px;
+    color: white;
+    vertical-align: middle;
+    border: none;
+    cursor: pointer;
+}
+.tweet:active{
+    opacity: 0.5;
+}
