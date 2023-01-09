@@ -1,0 +1,27 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+    margin-bottom: 40px;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50px;
+    display: inline-block;
+    margin-bottom: 40px;
+    margin-left: 10px;
+}
+.service-div{
+    border: 1px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    width: 300px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
