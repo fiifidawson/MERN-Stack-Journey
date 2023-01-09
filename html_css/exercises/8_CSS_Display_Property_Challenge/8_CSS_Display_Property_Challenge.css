@@ -40,3 +40,52 @@ input {
 .sign-up-button:active{
     opacity: 0.5;
 }
+p {
+    font-family: Arial;
+}
+.request{
+    margin-top: 60px;
+    font-size: 27px;
+    margin-bottom: 25px;
+   
+}
+.pickup{
+    display: block;
+    background-color: rgb(230, 230, 230);
+    color: gray;
+    width: 300px;
+    border: none;
+    border-radius: 0;
+}
+.destination{
+    display: block;
+    background-color: rgb(230, 230, 230);
+    color: gray;
+    width: 300px;
+    border: none;
+    border-radius: 0;
+    margin-bottom: 30px;
+}
+.request-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.schedule-button{
+    background-color: rgb(230, 230, 230);
+    border: none;
+    border-radius: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
