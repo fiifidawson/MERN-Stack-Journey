@@ -7,38 +7,61 @@
                 font-family: Arial;
             }
             .profile{
+                margin-bottom: 0;
                 width: 150px;
                 height: 150px;
                 object-fit: cover;
                 object-position: center;
-                margin-right: 20px;
-                margin-bottom: 60px;
             }
             .button{
                 border: none;
                 color: white;
+                border-radius: 3px;
                 padding-top: 5px;
                 padding-bottom: 5px;
                 padding-left: 10px;
                 padding-right: 10px;
+                margin-top: 1px;
+                margin-bottom: 6px;
+                margin-left: 6px;
+                background-color: rgb(29, 155, 240);
+            }
+            .div{
+                box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+                display: inline-block;
+                margin-right: 6px;
+            }
+            .name{
+                margin-top: 0;
+                margin-bottom: 5px;
+                margin-left: 6px;
+                font-weight: bold;
+                font-size: 12px;
+            }
+            .mutual{
+                font-size: 10px;
+                color: rgb(100, 100, 100);
+                margin-top: 0;
+                margin-bottom: 6px;
+                margin-left: 6px;
             }
         </style>
     </head>
     <body>
-        <div>
+        <div class="div">
             <img class="profile" src="John-Wick.jpg">
             <p class="name">John Wick</p>
             <p class="mutual">2 mutual friends</p> 
             <button class="button">Add Friend</button> 
         </div>
-        <div>
-            <img src="liam-neeson.jpg">
+        <div class="div">
+            <img class="profile" src="liam-neeson.jpg">
             <p class="name">Liam Neeson</p>
             <p class="mutual">3 mutual friends</p> 
             <button class="button">Add Friend</button> 
         </div>
-        <div>
-            <img src="james-bond.jpg">
+        <div class="div">
+            <img class="profile" src="james-bond.jpg">
             <p class="name">James Bond</p>
             <p class="mutual">4 mutual friends</p> 
             <button class="button">Add Friend</button> 
