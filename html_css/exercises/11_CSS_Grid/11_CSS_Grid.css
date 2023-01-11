@@ -1,0 +1,16 @@
+.a11{
+    display: grid;
+    grid-template-columns: 200px 75px;
+    margin-bottom: 30px;
+}
+.bll{
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+    margin-bottom: 30px;
+}
+.blue{
+    background-color: lightblue;
+}
+.pink{
+    background-color: lightpink;
+}
