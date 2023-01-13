@@ -9,11 +9,8 @@
 }
 
 .left-section{
-    background-color: lightblue;
-    width: 150px;
     align-items: center;
-    display: flex;
-    
+    display: flex;    
 }
 
 .middle-section{
@@ -29,7 +26,9 @@
 }
 
 .hamburger-menu{
-    height: 20px;
+    height: 24px;
+    margin-left: 24px;
+    margin-right: 20px;
 }
 .youtube-logo{
     height: 20px;
