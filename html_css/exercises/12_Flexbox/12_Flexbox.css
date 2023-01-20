@@ -1,0 +1,30 @@
+.a12a{
+    display: flex;
+    flex-direction: row;
+
+}
+.light-blue{
+    background-color: lightblue;
+}
+.light-pink{
+    background-color: lightpink;
+}
+.item1a{
+    width: 200px;
+}
+.item1b{
+    width: 75px;
+}
+.b12b {
+    display: flex;
+    flex-direction: row;
+}
+.item2a {
+    width: 50px;
+} 
+.item2b {
+    flex: 1;
+}
+.item2c {
+    width: 50;
+} 
