@@ -5,7 +5,9 @@ p {
 }
 
 body{
+    background-color: #f9f9f9;
     margin: 0;
     padding: 80px;
-    padding-left: 80px;  
+    padding-left: 95px;  
+    padding-right: 24px;
 }
