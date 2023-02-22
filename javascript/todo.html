@@ -10,20 +10,19 @@
             let todo2 = 'Clean kitchen';
             let todo3 = 'Buy flowers';
 
-            //            Create an html element('type of element')
-            let element = document.createElement('div');
-            //Add text to the element
-            element.textContent = todo1;
-            //Add the element to the body
-            document.body.appendChild(element);
+            function addTodo(todoTitle){
+                //          Create an html element('type of element')
+                let element = document.createElement('div');
+                //Add text to the element
+                element.textContent = todoTitle;
+                //Add the element to the body
+                document.body.appendChild(element);
+            }
+            addTodo(todo1);
+            addTodo(todo2);
+            addTodo(todo3);
+            
 
-            element = document.createElement('div');
-            element.textContent = todo2;
-            document.body.appendChild(element);
-
-            element = document.createElement('div');
-            element.textContent = todo3;
-            document.body.appendChild(element);
         </script>
     </body>
 </html>
